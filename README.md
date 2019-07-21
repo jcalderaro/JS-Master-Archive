@@ -4,7 +4,7 @@ This will contain 8 total Branches. Covering 2 weeks of Material.
 # JavaScript Fundamentals
 
 Day 1 JS-I : https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/
-  Project : https://github.com/LambdaSchool/JavaScript-I/
+Project : https://github.com/LambdaSchool/JavaScript-I/
   
 Day 2 JS-II : https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/
   Project : https://github.com/LambdaSchool/JavaScript-II
