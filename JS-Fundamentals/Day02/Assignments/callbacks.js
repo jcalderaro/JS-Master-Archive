@@ -1,4 +1,6 @@
-// Create a higher order function and invoke the callback function to test your work. You have been provided an example of a problem and a solution to see how this works with our items array.  Study both the problem and the solution to figure out the rest of the problems.
+// Create a higher order function and invoke the callback function to test your work. 
+// You have been provided an example of a problem and a solution to see how this works with our items array. 
+// Study both the problem and the solution to figure out the rest of the problems.
 
 const items = ['Pencil', 'Notebook', 'yo-yo', 'Gum', 'Gum', 'yo-yo'];
 
@@ -18,7 +20,6 @@ const items = ['Pencil', 'Notebook', 'yo-yo', 'Gum', 'Gum', 'yo-yo'];
     console.log(first)
   });
 */
-
 
 function getLength(arr, cb) {
   // getLength passes the length of the array into the callback.
@@ -60,7 +61,6 @@ const multiply = function(x,y) {
 
 console.log(multiplyNums(1,3, multiply));
 
-
 function contains(item, list, cb) {
   // contains checks if an item is present inside of the given array/list.
   // Pass true to the callback if it is, otherwise pass false.
@@ -72,10 +72,6 @@ const isTrue = function(param) {
 };
 
 console.log(contains("Pencil", items, isTrue));
-
-
-
-
 
 /* STRETCH PROBLEM */
 

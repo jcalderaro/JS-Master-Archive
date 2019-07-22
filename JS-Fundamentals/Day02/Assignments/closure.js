@@ -1,32 +1,33 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
 
-function GoT() {
-    const khaleesi = "I am the Mother of Dragons!";
-    console.log(`Daenerys Targaryen: ${khaleesi}`);
+function Juggermaw() {
+    const juggerKogmaw = "Season 5 Juggermaw Gluck Gluck Gluck";
+    console.log(`Kogmaw's Best Composition Was: ${juggerKogmaw}`);
     debugger;
   
-    function theWall() {
-      const jonSnow = "I fight for Castle Black!";
-      console.log(`At the wall: ${jonSnow}`);
+    function ProtectTheKog() {
+      const protecTheKog = "A Kogmaw with 4.0 attack speed and % health damage. Good times.";
+      console.log(`Behind Every Strong Man Is A Stronger Woman. Behind Her Is: ${protecTheKog}`);
       debugger;
   
-      function westeros() {
-        const tyrionLannister = "It’s hard to put a leash on a dog once you’ve put a crown on its head.";
-        console.log(`To Cersei, about Joffery's bad behavior: ${tyrionLannister}`);
+      function SlugmawMillionare() {
+        const slugawMillionare = "You Don't. Slugmaw Millionare Cash Money Always Wins BAYBEE";
+        console.log(`The Cash Money Way To Beat Kogmaw Compositions: ${slugawMillionare}`);
         debugger;
       }
-      westeros();
+      SlugmawMillionare();
     }
-    theWall();
+    ProtectTheKog();
   }
-  GoT();
+  Juggermaw();
   
   
   /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
   
   
   // ==== Challenge 2: Create a counter function ====
+
   const counter = () => {
     // Return a function that when invoked increments and returns a counter variable.
   };
