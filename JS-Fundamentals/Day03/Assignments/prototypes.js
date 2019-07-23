@@ -83,10 +83,10 @@ let GameObject = function(attributes) {
         height: 1,
       },
       healthPoints: 5,
-      name: 'Bruce',
+      name: 'Merlin',
       team: 'Mage Guild',
       weapons: [
-        'Staff of Shamalama',
+        'Ethereum Life-Staff',
       ],
       language: 'Common Tongue',
     });
@@ -99,8 +99,8 @@ let GameObject = function(attributes) {
         height: 2,
       },
       healthPoints: 15,
-      name: 'Sir Mustachio',
-      team: 'The Round Table',
+      name: 'Sir Reginald',
+      team: 'The Warriors Guild',
       weapons: [
         'Giant Sword',
         'Shield',
@@ -119,8 +119,7 @@ let GameObject = function(attributes) {
       name: 'Lilith',
       team: 'Forest Kingdom',
       weapons: [
-        'Bow',
-        'Dagger',
+        'Staff of the Verdant Circle',
       ],
       language: 'Elvish',
     });
